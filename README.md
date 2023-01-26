@@ -7,4 +7,4 @@ During this project I worked together with Tanvi Kiran, Le Noheh Pauline and Zha
 
 Our project obtained an accuracy of ... on Kaggle.
 
-This repository contains the initial databases, a python notebook and the submitted database.
+This repository contains the initial databases, a python notebook, the submitted database and a document that presents our methodology and results.
